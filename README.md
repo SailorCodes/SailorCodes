@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi visitor! 👋
+My name is Arda, I am currently living in Istanbul-Turkey.
+
+I usually experiment with coding languages such as JS, C++, C#, HTML, CSS and Python. I am currently learning Unity and Unreal Engine 5. Sometimes I do teaching too.
+
 
 <!--
 **SailorCodes/SailorCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
