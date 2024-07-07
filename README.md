@@ -3,7 +3,7 @@ My name is Arda, I am currently living in Istanbul-Turkey.
 
 I usually experiment with coding languages such as JS, C++, C#, HTML, CSS and Python. I am currently learning Unity and Unreal Engine 5. Sometimes I do teaching too.
 
-[![SailorCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SailorCodes)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=SailorCodes&show_icons=true&theme=tokyonight&cache_seconds=43200)
 ![Github stats langs](https://github-readme-stats.vercel.app/api/top-langs?username=SailorCodes&layout=compact&show_icons=true&theme=tokyonight&cache_seconds=43200)
 
 
