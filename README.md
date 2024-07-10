@@ -3,6 +3,15 @@ My name is Arda, I am currently living in Istanbul-Turkey.
 
 I usually experiment with coding languages such as JS, C++, C#, HTML, CSS and Python. I am currently learning Unity and Unreal Engine 5. Sometimes I do teaching too.
 
+## :tada: Projects
+
+| Project                                                     | Description                                                  |
+|-------------------------------------------------------------|--------------------------------------------------------------|
+|[HAPS](https://github.com/SailorCodes/Heart-Attack-Prediction-System)                   | Heart Attack Prediction System written in Python and MySQL |
+|[Weather](https://github.com/SailorCodes/WeatherApp)                         |Weather App written in Python |  
+|[Warrior](https://github.com/SailorCodes/WarriorGame)                 | Warrior Game written in Unity with C# |
+|[Mad Doctor](https://github.com/SailorCodes/Mad-Doctor-Shooter)   | Mad Doctor Shooter Game written in Unity with C# |
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SailorCodes&show_icons=true&theme=tokyonight&cache_seconds=43200)
 ![Github stats langs](https://github-readme-stats.vercel.app/api/top-langs?username=SailorCodes&layout=compact&show_icons=true&theme=tokyonight&cache_seconds=43200)
 
