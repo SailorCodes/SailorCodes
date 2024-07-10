@@ -17,7 +17,7 @@ I usually experiment with coding languages such as JS, C++, C#, HTML, CSS and Py
 ![Github stats langs](https://github-readme-stats.vercel.app/api/top-langs?username=SailorCodes&layout=compact&show_icons=true&theme=tokyonight&cache_seconds=43200)
 
 
-### :e-mail: Contact with me via these platforms!
+## :e-mail: Contact with me via these platforms!
 
 <a href="https://www.linkedin.com/in/arda-gok/" target="_blank" rel="nofollow"><img alt="Arda Gök's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ardag3781@gmail.com" target="_blank" rel="nofollow"><img alt="Arda Gök's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
