@@ -13,7 +13,7 @@ I usually experiment with coding languages such as JS, C++, C#, HTML, CSS and Py
 |[Mad Doctor](https://github.com/SailorCodes/Mad-Doctor-Shooter)   | Mad Doctor Shooter Game written in Unity with C# |
 
 ## :chart_with_upwards_trend: Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=SailorCodes&show_icons=true&theme=tokyonight&cache_seconds=43200)
+![GitHub stats](https://github-contribution-stats.vercel.app/api/?username=SailorCodes)
 ![Github stats langs](https://github-readme-stats.vercel.app/api/top-langs?username=SailorCodes&layout=compact&show_icons=true&theme=tokyonight&cache_seconds=43200)
 
 
