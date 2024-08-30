@@ -1,7 +1,7 @@
 ## Hi visitor! 👋
 My name is Arda, I am currently living in Istanbul-Turkey.
 
-I usually experiment with coding languages such as JS, C++, C#, HTML, CSS and Python. I am currently learning Unity and Unreal Engine 5. Sometimes I do teaching too.
+I usually experiment with coding languages such as JS, C++, C#, HTML, CSS, Python, Php, React and Next.js  Sometimes I do teaching too.
 
 ## :tada: Projects
 
